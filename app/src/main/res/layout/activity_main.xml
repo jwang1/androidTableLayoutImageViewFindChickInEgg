@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.iexpress.hello.findegginshoe.MainActivity">
+
+  <TableRow
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/title"
+        android:textColor="#0e0118"
+        android:textSize="35sp"/>
+  </TableRow>
+
+  <TableRow
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+      <ImageView
+          android:id="@+id/imageView"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:paddingLeft="10px"
+          app:srcCompat="@drawable/no_check_in_egg"/>
+
+      <ImageView
+          android:id="@+id/imageView2"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          app:srcCompat="@drawable/chick_in_egg"/>
+
+      <ImageView
+          android:id="@+id/imageView3"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          app:srcCompat="@drawable/no_check_in_egg"/>
+    </LinearLayout>
+  </TableRow>
+
+  <TableRow
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+      <Button
+          android:id="@+id/playAgainButton"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:text="Play Again"
+          android:textSize="35dp" />
+    </LinearLayout>
+  </TableRow>
+
+</TableLayout>
