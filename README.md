@@ -25,3 +25,5 @@ The algorithm is:
 4. ToDos:
 
    4.1 Add some menu for settings; or menu of taking screen snapshot, and share with other apps like wechat, QQ etc.
+
+   4.2 Here it goes, the randomization algorithm can be improved. Simply assign index (0, 1, or 2 randomly chosen) to that egg-with-chick;  and then the other two simply use the other egg-no-chick image.
