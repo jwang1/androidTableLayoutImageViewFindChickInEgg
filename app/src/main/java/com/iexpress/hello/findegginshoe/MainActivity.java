@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
 
   private void isRight(View v, int i) {
     if (played) {
-      result.setText("Click Play Again button to play more");
+      result.setText(R.string.guidance);
       result.setTextColor(Color.MAGENTA);
       return;
     } else {
@@ -104,10 +104,10 @@ public class MainActivity extends AppCompatActivity {
     iv.setImageAlpha(255);
 
     if (imageIds[i] == R.drawable.chick_in_egg) {
-      result.setText("Congrats! You hatched a chick!");
+      result.setText(R.string.congrats);
       result.setTextColor(Color.BLUE);
     } else {
-      result.setText("Keep finding the egg with chick");
+      result.setText(R.string.keep_trying);
       result.setTextColor(Color.RED);
     }
 
