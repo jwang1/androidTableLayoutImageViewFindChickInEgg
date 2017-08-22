@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
       int tmp = imageIds[i];
       // idx either 0, 1, or 2
       int idx = (int) (Math.random() * 3);
-      Toast.makeText(this, "random idx is: " + idx, Toast.LENGTH_SHORT).show();
+      // Toast.makeText(this, "random idx is: " + idx, Toast.LENGTH_SHORT).show();
       imageIds[i] = imageIds[idx];
       imageIds[idx] = tmp;
     }
