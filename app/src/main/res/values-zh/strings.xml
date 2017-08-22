@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">孵鸡蛋</string>
+  <string name="congrats">恭喜! 孵出小鸡啦！</string>
+  <string name="guidance">按\"继续\"按纽</string>
+  <string name="keep_trying">继续孵鸡蛋</string>
+  <string name="play_again">继续</string>
+  <string name="title">孵一个鸡蛋</string>
+</resources>
