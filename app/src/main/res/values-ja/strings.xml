@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">孵化雛</string>
+  <string name="congrats">おめでとう！ あなたはひよこを孵化させた</string>
+  <string name="play_again">再びプレー</string>
+  <string name="title">ニワトリを孵化する卵を見つける</string>
+  <string name="keep_trying">別の卵を孵化し続ける</string>
+  <string name="guidance">続行ボタンをクリック</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Escotilla</string>
+  <string name="play_again">Encontrar un huevo para eclosionar</string>
+  <string name="title">Encontrar un huevo para eclosionar a un pollito</string>
+  <string name="keep_trying">Encontrar otro huevo para eclosionar a un pollito</string>
+  <string name="guidance">Haga clic en el botón reproducir de nuevo</string>
+  <string name="congrats">¡felicitaciones! Acabas de eclosionar a una chica</string>
+</resources>

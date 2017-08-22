@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="congrats">치하! 방금 병아리를 부화 시켰어.</string>
+  <string name="guidance">계속 버튼을 클릭하십시오.</string>
+  <string name="app_name">해치 병아리</string>
+  <string name="keep_trying">계속 또 다른 알을 부화하다.</string>
+  <string name="play_again">다시 놀다</string>
+  <string name="title">부화 할 달걀을 찾다.</string>
+</resources>
