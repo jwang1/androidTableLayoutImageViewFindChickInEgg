@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Poussin</string>
+  <string name="congrats">toutes nos félicitations</string>
+  <string name="guidance">Cliquez sur le bouton pour jouer</string>
+  <string name="keep_trying">Éclore un autre oeuf</string>
+  <string name="play_again">rejouer</string>
+  <string name="title">Devine quel œuf éclore poussin</string>
+</resources>

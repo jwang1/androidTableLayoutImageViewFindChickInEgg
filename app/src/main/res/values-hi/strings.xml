@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">हैच लड़की</string>
+  <string name="congrats">बधाई!</string>
+  <string name="guidance">खेलने के लिए बटन क्लिक करें</string>
+  <string name="keep_trying">एक और अंडा से बचें</string>
+  <string name="play_again">फिर से चालू करें</string>
+  <string name="title">अंडे को उबकाते हुए ढूंढें</string>
+</resources>

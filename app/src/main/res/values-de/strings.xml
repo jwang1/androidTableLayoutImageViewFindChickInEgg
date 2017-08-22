@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Luke Küken</string>
+  <string name="play_again">Spiel nochmal</string>
+  <string name="title">Schlüpfe ein ei</string>
+  <string name="keep_trying">Schlüpft ein anderes Ei</string>
+  <string name="guidance">Klick-Taste zum Abspielen</string>
+  <string name="congrats">Glückwünsche!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Pulcino da prua</string>
+  <string name="title">Scegli un uovo da sfogare</string>
+  <string name="congrats">complimenti</string>
+  <string name="guidance">Fai clic sul pulsante per giocare</string>
+  <string name="keep_trying">Trovare un altro uovo da sfogare</string>
+  <string name="play_again">Gioca ancora</string>
+</resources>
