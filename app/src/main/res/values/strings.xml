@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Find Chick in Egg</string>
-    <string name="title">Guess which egg has a chick?</string>
+    <string name="app_name">Hatch Eggs</string>
+    <string name="title">Hatch an egg</string>
     <string name="guidance">Click PLAY AGAIN button to play more</string>
-    <string name="congrats">Congrats! You found the chick!</string>
-    <string name="keep_trying">Keep finding the egg with chick</string>
+    <string name="congrats">Congrats! You hatched a chick!</string>
+    <string name="keep_trying">Hatch another egg?</string>
     <string name="play_again">Play Again</string>
 </resources>
